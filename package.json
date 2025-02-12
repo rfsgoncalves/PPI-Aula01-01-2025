@@ -1,0 +1,32 @@
+{
+  "name": "ppi-aula01-01-2025",
+  "version": "1.0.0",
+  "description": "Aula ao vivo 1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfsgoncalves/PPI-Aula01-01-2025.git"
+  },
+  "keywords": [
+    "express",
+    "sessão",
+    "nodejs",
+    "servidor",
+    "web",
+    "http"
+  ],
+  "author": "Renato Gonçalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rfsgoncalves/PPI-Aula01-01-2025/issues"
+  },
+  "homepage": "https://github.com/rfsgoncalves/PPI-Aula01-01-2025#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
